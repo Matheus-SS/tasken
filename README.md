@@ -25,7 +25,7 @@
 ## Description
 
 As configurações do banco de dados do app estão com alguns nomes estranhos, porque foi usado [remote MySql](https://remotemysql.com/), um site que permite você criar um banco de dados mysql online de graça, para você poder testar suas aplicações. Para acessar o banco de dados dessa aplicação que foi criada, basta clicar neste link
-[Web php my admin](https://webphpmyadmin.com/). Abrirá uma página do php my admin, na parte de **servidor** cole essa url: ``remotemysql.com``, na parte de utilizador e palavra passe insira as configurações que estão no arquivo **app.module.ts**.
+[Web php my admin](https://webphpmyadmin.com/). Abrirá uma página do php my admin, na parte de **servidor** cole essa url: ``remotemysql.com``, na parte de utilizador e palavra passe insira as configurações que estão no arquivo **src/app.module.ts**.
 
 ## Installation
 ```bash
